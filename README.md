@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="http://www.github.com/mmuminovic"><img src="https://github-readme-stats.vercel.app/api?username=mmuminovic&show_icons=true&hide=&count_private=true&title_color=F03E3E&text_color=ffffff&icon_color=F03E3E&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muhamed's GitHub stats" /></a>
+
+<a href="http://www.github.com/mmuminovic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmuminovic&stroke=ffffff&background=1c1917&ring=F03E3E&fire=F03E3E&currStreakNum=ffffff&currStreakLabel=F03E3E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
