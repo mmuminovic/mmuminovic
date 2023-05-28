@@ -1,14 +1,24 @@
-<!--
-**mmuminovic/mmuminovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Full Stack Developer Profile
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello there! Welcome to my GitHub profile. I am a passionate and experienced full stack developer with expertise in React, React Native, Node.js, MongoDB, PostgreSQL, and NestJS. With a strong foundation in both front-end and back-end technologies, I strive to deliver high-quality and scalable solutions.
+
+## Skills
+
+- **Front-end**: React, React Native
+- **Back-end**: Node.js, NestJS
+- **Databases**: MongoDB, PostgreSQL
+- **Deployment**: Heroku, Firebase
+- **UI/UX**: HTML, CSS, SASS
+
+
+## Contact
+
+If you have any questions or would like to collaborate on an exciting project, feel free to reach out to me. You can contact me through:
+
+- Email: muminovic.muhamed01@gmail.com
+- LinkedIn: [Muhamed Muminovic](https://www.linkedin.com/in/muhamed-muminovic)
+
+I look forward to connecting with you!
+
