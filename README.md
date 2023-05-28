@@ -12,13 +12,3 @@ Hello there! Welcome to my GitHub profile. I am a passionate and experienced ful
 - **Deployment**: Heroku, Firebase
 - **UI/UX**: HTML, CSS, SASS
 
-
-## Contact
-
-If you have any questions or would like to collaborate on an exciting project, feel free to reach out to me. You can contact me through:
-
-- Email: muminovic.muhamed01@gmail.com
-- LinkedIn: [Muhamed Muminovic](https://www.linkedin.com/in/muhamed-muminovic)
-
-I look forward to connecting with you!
-
