@@ -10,5 +10,5 @@ Hello there! Welcome to my GitHub profile. I am a passionate and experienced ful
 - **Back-end**: Node.js, NestJS
 - **Databases**: MongoDB, PostgreSQL
 - **Deployment**: Heroku, Firebase
-- **UI/UX**: HTML, CSS, SASS
+- **UI/UX**: HTML, CSS, SASS, MUI, Bootstrap
 
