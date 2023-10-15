@@ -6,9 +6,9 @@ Hello there! Welcome to my GitHub profile. I am a passionate and experienced ful
 
 ## Skills
 
-- **Front-end**: React, React Native
+- **Front-end**: React, React Native, Next, Vue, Nuxt
 - **Back-end**: Node.js, NestJS
 - **Databases**: MongoDB, PostgreSQL
-- **Deployment**: Heroku, Firebase
+- **Deployment**: Heroku, Firebase, Netlify
 - **UI/UX**: HTML, CSS, SASS, MUI, Bootstrap
 
